@@ -2,6 +2,8 @@ os: mac
 and app.bundle: net.java.openjdk.cmd
 os: windows
 and app.exe: java.exe
+os: linux
+and app.app: /slay the spire/i
 -
 
 # Mouseover the player's character. For example: "player"
